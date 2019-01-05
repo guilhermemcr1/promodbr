@@ -2,11 +2,15 @@
 
 Here will be developed a new ProMod - NE for Call of Duty 4.
 
-## Force DVARS:
+## Force DVARS and Features:
 
 Anti-UAV (g_compasshowenemies);
 No smoking disabled (FX_ENABLE);
 No map bugs (r_znear).
+
+Auto Screenshot - Only in COD4x; 
+Finalkillcam - Only SD (obviously); 
+Work Match MR12; 
 
 
 ## Contributors
