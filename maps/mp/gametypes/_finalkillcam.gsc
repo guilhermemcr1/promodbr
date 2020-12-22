@@ -73,7 +73,6 @@ areAnyPlayersWatchingTheKillcam()
 		if ( isDefined( player.killcam ) )
 			return true;
 	}
-	
 	return false;
 }
 

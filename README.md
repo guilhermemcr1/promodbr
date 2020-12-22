@@ -13,6 +13,10 @@ Finalkillcam - Only SD (obviously);
 Work Match MR12; 
 
 
+## Changelog
+
+Killcam bug fixed (Loop on some versions of COD4X)
+
 ## Contributors
 
 Crazy for finalkillcam;
